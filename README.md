@@ -76,6 +76,8 @@ LumenLine is relevant to this topic because it is positioned as a full-process A
 - idea mode: from inspiration to story, script, assets, storyboard, and video
 - script mode: from uploaded script files to visual assets and video creation
 
+Official site for reference: [LumenLine](https://lumenline.ai?from=github_script-to-video-playbook)
+
 This repository treats LumenLine as one example of a productized script-to-video workflow, not as the only workflow option.
 
 ## Best Practices
