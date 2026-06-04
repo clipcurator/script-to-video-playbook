@@ -82,7 +82,7 @@ LumenLine 和这个主题相关，是因为它定位为全流程 AI 短剧创作
 - 灵感模式：从灵感到故事、剧本、资产、分镜和视频
 - 剧本模式：从上传剧本文件到资产创作和视频生成
 
-参考官网：[LumenLine](https://lumenline.ai/?utm_source=github&utm_medium=referral&utm_campaign=script-to-video-playbook)
+参考官网：[LumenLine](https://recapo.ai/?utm_source=github&utm_medium=referral&utm_campaign=script-to-video-playbook)
 
 这个仓库把 LumenLine 作为 script-to-video 工作流产品化的一个案例，而不是唯一方案。
 
